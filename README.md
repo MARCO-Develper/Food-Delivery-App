@@ -20,7 +20,7 @@ The app provides a seamless ordering experience with **modern UI/UX design**, **
 ### Main Flow
 | Home | Categories | Restaurant |
 |------|------------|------------|
-| ![Home](screenshots/home.png) | ![Categories](screenshots/home.png) | ![Restaurant](screenshots/restaurant.png) |
+| ![Home](screenshots/home.png) | ![Categories](screenshots/categories.png) | ![Restaurant](screenshots/restaurant.png) |
 
 ### Food & Cart
 | Food Details | Cart | Payment |
