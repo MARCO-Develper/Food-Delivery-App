@@ -20,7 +20,7 @@ The app provides a seamless ordering experience with **modern UI/UX design**, **
 ### Main Flow
 | Home | Categories | Restaurant |
 |------|------------|------------|
-| ![Home](screenshots/home.png) | ![Categories](screenshots/categories.png) | ![Restaurant](screenshots/restaurant.png) |
+| ![Home](screenshots/home.png) | ![Categories](screenshots/home.png) | ![Restaurant](screenshots/restaurant.png) |
 
 ### Food & Cart
 | Food Details | Cart | Payment |
@@ -41,8 +41,6 @@ The application includes **50+ screens**:
 - 👤 **User Interfaces (40 screens)** → onboarding, authentication, home, search, restaurants, menus, cart, orders, profile  
 - 👨‍🍳 **Chef Interfaces (10 screens)** → dashboard, add food, manage menu, track sales, notifications, reviews  
 
-📸 Full preview:  
-![All Interfaces](screenshots/interfaces.png)
 
 ---
 
